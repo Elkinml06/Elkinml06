@@ -38,7 +38,7 @@ Actualmente estoy centrado en construir proyectos que reflejen mi crecimiento co
 <h2 align="left">📫 Contacto</h2>
 
 - 📧 Email: *Disponible bajo solicitud*  
-- 📷 Instagram: [@elkinml06](https://www.instagram.com/elk1nml06)
+- 📷 Instagram: [@elkinml06](https://www.instagram.com/elkinml06)
 
 ---
 
