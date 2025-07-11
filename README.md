@@ -31,9 +31,9 @@ Actualmente construyo proyectos que reflejan mi crecimiento como programador.
 ---
 
 <h2 align="left">📫 Contacto</h2>
-
-- 📧 Email: *Disponible bajo solicitud*  
-- 📞 Teléfono: *Disponible bajo solicitud*  
+ 
+- 📞 Teléfono: *Disponible bajo solicitud*
+- 📧 Email: elkin1506ml@gmail.com  
 - 📷 Instagram: [@elkinml06](https://www.instagram.com/elkinml06)
 
 ---
