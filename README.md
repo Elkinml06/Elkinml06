@@ -1,8 +1,8 @@
 <h1 align="left">👋 Hola, soy Elkin</h1>
 
 <p align="left">
-Desarrollador en formación con enfoque en tecnologías web.<br>
-Soy autodidacta y estoy comprometido con mejorar mis habilidades cada día.<br>
+Desarrollador full stack en formación.<br>
+Soy estudiante y estoy comprometido con mejorar mis habilidades cada día.<br>
 Actualmente construyo proyectos que reflejan mi crecimiento como programador.
 </p>
 
@@ -10,7 +10,7 @@ Actualmente construyo proyectos que reflejan mi crecimiento como programador.
 
 <h2 align="left">🧠 Sobre mí</h2>
 
-- 🧩 Estudiante de Ingeniería de Sistemas  
+- 🧩 Estudiante de Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga  
 - 💡 Apasionado por crear soluciones funcionales y minimalistas  
 - 🚀 En constante aprendizaje y búsqueda de nuevos retos  
 - 🌍 Desde Cúcuta, Colombia
@@ -33,6 +33,7 @@ Actualmente construyo proyectos que reflejan mi crecimiento como programador.
 <h2 align="left">📫 Contacto</h2>
 
 - 📧 Email: *Disponible bajo solicitud*  
+- 📞 Teléfono: *Disponible bajo solicitud*  
 - 📷 Instagram: [@elkinml06](https://www.instagram.com/elkinml06)
 
 ---
